@@ -2,8 +2,10 @@
 
 ## Description
 This is a back end for an E-Commerce site. I configured a working Express.js API to use Sequelize to interact with a MySQL database. In the database, I create 4 models, they are: Category, Product, Tag, and ProductTag.
+
+Run this command to start the application's server
 ~~~
-node index.js
+node server.js
 ~~~
 
 ## Link to the walkthrough video
